@@ -3,7 +3,7 @@
 ----
 ### Supervised Learning 
 
-**Maximum Likelihood Estimate - Linear Regression** : 
+**Linear Regression - (Maximum Likelihood Estimate)** : 
 https://www.cs.princeton.edu/courses/archive/fall18/cos324/files/mle-regression.pdf
 
 ----
@@ -25,6 +25,7 @@ https://developers.google.com/machine-learning/crash-course/classification/accur
 
 **ROC and AUC** : 
 https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+
 
 
 
