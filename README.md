@@ -1,6 +1,12 @@
 ﻿## Machine Learning Resources 
 
 ----
+### Supervised Learning 
+
+**Maximum Likelihood Estimate - Linear Regression** : 
+https://www.cs.princeton.edu/courses/archive/fall18/cos324/files/mle-regression.pdf
+
+----
  
 ### Unsupervised Learning
 
@@ -9,7 +15,6 @@ https://graphics.stanford.edu/courses/cs233-20-spring/ReferencedPapers/LectureNo
 
 **K-means Clustering** :
 https://neptune.ai/blog/k-means-clustering
-
 
 ----
 
@@ -20,6 +25,7 @@ https://developers.google.com/machine-learning/crash-course/classification/accur
 
 **ROC and AUC** : 
 https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+
 
 
 
