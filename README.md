@@ -26,6 +26,15 @@ https://developers.google.com/machine-learning/crash-course/classification/accur
 **ROC and AUC** : 
 https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
 
+----
+
+### Statistics
+
+**Expectation and Variance** : 
+https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/variance-notes.pdf
+
+
+
 
 
 
