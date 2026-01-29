@@ -33,6 +33,14 @@ https://developers.google.com/machine-learning/crash-course/classification/roc-a
 **Expectation and Variance** : 
 https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/variance-notes.pdf
 
+----- 
+
+### Math
+
+**Combinatorics** : 
+https://www.math.toronto.edu/aretakis/Combinatorics-Aretakis.pdf
+
+
 
 
 
